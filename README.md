@@ -1,6 +1,6 @@
 # AI Maze Solver
 
-An interactive visualization of classical AI search algorithms solving mazes. Built for university AI course to demonstrate state-space search, graph traversal, and heuristic-based search.
+An interactive visualization of classical AI search algorithms solving mazes. Built to demonstrate state-space search, graph traversal, and heuristic-based search.
 
 ## 🎯 Features
 
