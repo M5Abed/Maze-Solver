@@ -116,10 +116,3 @@ When running different algorithms on the same maze, you'll notice:
 - **Greedy**: Rushes toward the goal using heuristic. Fast but may miss shorter paths.
 - **A\***: Balanced exploration, guided by both actual cost and heuristic. Optimal and efficient.
 
-## 📝 License
-
-Educational project for AI course. Free to use and modify.
-
-## 👨‍💻 Author
-
-Created for Artificial Intelligence university course.
